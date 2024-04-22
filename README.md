@@ -18,7 +18,7 @@
 
 <ol>
   <li>Cloner le dépôt :</li>
-  <pre><code>git clone https://github.com/votreutilisateur/philosophes.git</code></pre>
+  <pre><code>git clone https://github.com/NineSuper/philosophers</code></pre>
   <li>Naviguer jusqu'au répertoire du projet :</li>
   <pre><code>cd philosophes</code></pre>
   <li>Compiler le programme :</li>
