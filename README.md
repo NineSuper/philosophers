@@ -30,3 +30,7 @@
   <li>Pour nettoyer les fichiers objets et l'exécutable :</li>
   <pre><code>make clean</code></pre>
 </ol>
+
+## 📝 Auteur
+
+- 🎫 [@NineSuper](https://www.github.com/NineSuper)
