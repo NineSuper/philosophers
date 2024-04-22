@@ -31,6 +31,6 @@
   <pre><code>make clean</code></pre>
 </ol>
 
-📝 Auteur
+<h2>📝 Auteur</h2>h2>
 
 - 🎫 [@NineSuper](https://www.github.com/NineSuper)
