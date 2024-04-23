@@ -33,5 +33,6 @@
 
 <h2>📝 Auteur</h2>
 
-- 🎫 [@NineSuper](https://www.github.com/NineSuper)
+- 🎫 [@NineSuper](https://www.github.com/NineSuper) </b>
+
 <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clpo61f0c167701t692asdwoa/project/3353622" alt="tde-los-'s 42 Philosophers Score" /></a>
