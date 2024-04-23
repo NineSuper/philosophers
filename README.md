@@ -34,3 +34,6 @@
 <h2>📝 Auteur</h2>
 
 - 🎫 [@NineSuper](https://www.github.com/NineSuper)
+
+<h2>Note</h2>
+[![tde-los-'s](https://badge42.coday.fr/api/v2/clpo61f0c167701t692asdwoa/project/3353622)](https://github.com/Coday-meric/badge42)
