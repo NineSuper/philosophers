@@ -20,7 +20,7 @@
   <li>Cloner le dépôt :</li>
   <pre><code>git clone https://github.com/NineSuper/philosophers</code></pre>
   <li>Naviguer jusqu'au répertoire du projet :</li>
-  <pre><code>cd philosophes</code></pre>
+  <pre><code>cd philosophers</code></pre>
   <li>Compiler le programme :</li>
   <pre><code>make</code></pre>
   <li>Exécuter le programme avec les options souhaitées :</li>
